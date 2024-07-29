@@ -1,0 +1,1000 @@
+  191  sudo apt upgrade
+  192  xev
+  193  ls
+  194  xmodmap -pke >> xmodmap_backup
+  195  vim key_backup.sh
+  196  ls
+  197  cd devops/
+  198  ls
+  199  cat try_sh.sh 
+  200  cd 
+  201  ls
+  202  vim key_backup.sh 
+  203  ls
+  204  cd devops/
+  205  ls
+  206  ./try_sh.sh 
+  207  cd 
+  208  cd /
+  209  ls
+  210  cd 
+  211  cd devops/
+  212  cd 
+  213  sudo systemctl stop docker
+  214  sudo apt-get purge docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+  215  sudo apt-get autoremove -y --purge docker-ce docker-ce-cli containerd.io
+  216  sudo groupdel docker
+  217  docker -v
+  218  sudo apt-get purge -y docker-ce docker-ce-cli containerd.io docker-compose-plugin
+  219  sudo apt-get purge -y docker docker-engine docker.io containerd runc
+  220  dpkg -l | grep -i docker
+  221  sudp apt-get purge -y docker.io
+  222  sudo apt-get purge -y docker.io
+  223  sudo rm -rf /var/lib/docker
+  224  sudo rm -rf /var/lib/containerd
+  225  sudo rm -rf /etc/docker
+  226  sudo groupdel docker
+  227  docker -v
+  228  lsbk
+  229  lsblk
+  230  sudo ntfsfix/dev/sdb1
+  231  sudo ntfsfix /dev/sdb1
+  232  ssh
+  233  df -h
+  234  cd /
+  235  ls
+  236  cd
+  237  cat /etc/passwd
+  238  cd /
+  239  cd bin/
+  240  ls
+  241  cd 
+  242  cd /
+  243  cd sbin
+  244  ls
+  245  cd .
+  246  cd 
+  247  cd /var
+  248  ls
+  249  cd log/
+  250  ls
+  251  cd 
+  252  cd /
+  253  ls
+  254  cd etc/
+  255  ls
+  256  cd 
+  257  uname
+  258  uname 0r
+  259  uname -r
+  260  man mkdir
+  261  cd devops/
+  262  ls
+  263  mv text.txt txt.txt
+  264  ls
+  265  cd 
+  266  df -h
+  267  $ sudo apt install finger         [On Debian, Ubuntu and Mint]
+  268  $ sudo yum install finger         [On RHEL/CentOS/Fedora and Rocky/AlmaLinux]
+  269  $ sudo emerge -a sys-apps/finger  [On Gentoo Linux]
+  270  $ sudo apk add finger             [On Alpine Linux]
+  271  $ sudo pacman -S finger           [On Arch Linux]
+  272  $ sudo zypper install finger      [On OpenSUSE]   
+  273  sudo apt install finger 
+  274  dmidecode | less
+  275  sudo apt upgrade
+  276  sudo apt update
+  277  sudo apt upgrade
+  278  sudo apt autoremove
+  279  sudo apt update
+  280  cd Desktop/
+  281  sudo gedit /etc/default/grub
+  282  sudo update grub
+  283  sudo update-grub
+  284  rebooy
+  285  reboot
+  286  cd Downloads/
+  287  ls
+  288  cd 
+  289  sudo apt install unzip
+  290  cd Downloads/
+  291  unzip Form-16_BVFPXXXXXC_2023-2024.zip 
+  292  ls
+  293  unzip oh-my-git-linux.zip 
+  294  ls
+  295  cd /
+  296  ls
+  297  cd home
+  298  ls
+  299  cd 
+  300  man useradd
+  301  cd devops/
+  302  echo "Yayyyy" > tejas.txt
+  303  ls
+  304  cat tejas.txt 
+  305  ln -s tejas.txt 
+  306  ln -s tejas.txt softlink-file
+  307  ls
+  308  cat softlink-file 
+  309  mv softlink-file /home
+  310  cd 
+  311  ls
+  312  mkdir cognac
+  313  ls
+  314  cd cognac/
+  315  mv /devops/softlink.txt /cognac
+  316  mv /devops/softlink /cognac
+  317  cat /devops/softlink
+  318  cd 
+  319  cd devops/
+  320  ls
+  321  mv softlink-file > /cognac
+  322  ls
+  323  rm tejas.txt 
+  324  ls
+  325  cat softlink-file 
+  326  cd 
+  327  touch devops tej.txt
+  328  cd devops/
+  329  ls
+  330  cd 
+  331  ls
+  332  rm tew
+  333  rm tej.txt 
+  334  cd devops/
+  335  ls
+  336  ln -s txt.txt bolo
+  337  ls
+  338  cat bolo 
+  339  ln txt.txt hunkey
+  340  ls
+  341  rm txt.txt 
+  342  ls
+  343  cat hunkey 
+  344  ls -lh
+  345  chmod 700 hunkey 
+  346  ls -lh
+  347  rm softlink-file 
+  348  ls
+  349  rm bolo 
+  350  ls
+  351  cat hunkey 
+  352  echo "momositta" | teee
+  353  echo "momositta" | tee
+  354  echo "momositta" | tee hello.txt
+  355  ls
+  356  cat hello.txt 
+  357  cd
+  358  ssh
+  359  ssh-keygen 
+  360  man ssh-keygen
+  361  man ssh-keygen 
+  362  man ssh-keygen -t rsa
+  363  man ssh-keygen -t rsa -b 256
+  364  ssh-keygen -t rsa -b 256
+  365  ssh-keygen -t rsa
+  366  cat ~/.ssh/id_rsa.pub
+  367  top
+  368  df -h
+  369  nohup
+  370  nohup cat ~/.ssh/id_rsa.pub
+  371  cat nhup
+  372  cat nohup
+  373  nohup df -h
+  374  cat nohup.out 
+  375  ls
+  376  which devops
+  377  cd devops/
+  378  ls
+  379  cd 
+  380  which try.sh
+  381  id
+  382  user 
+  383  useradd -m Damon
+  384  sudo useradd -m Damon
+  385  cd /home
+  386  ls
+  387  sudo userdel Damon 
+  388  ls
+  389  cd 
+  390  cd /
+  391  cd home/
+  392  ls
+  393  su Damon
+  394  ls
+  395  cd Damon/
+  396  ls -lh
+  397  cat /etc/paswd
+  398  cat /etc/passwd
+  399  ls
+  400  rmdir Damon/
+  401  sudo rmdir Damon/
+  402  cd Damon/
+  403  ls -lh
+  404  rm -f Damon/
+  405  rmdir -f Damon/
+  406  rmdir --help
+  407  rmdir -fvp Damon/
+  408  sudo rmdir -fvp Damon/
+  409  chrome
+  410  sudo chrome
+  411  sudo apt upgrade
+  412  sudo apt update
+  413  sudo apt list --upgradable
+  414  sudo apt-get install google-chrome
+  415  sudo apt-get install chrome
+  416  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  417  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  418  sudo apt update
+  419  ls /etc/apt/sources.list.d/
+  420  cat /etc/apt/sources.list.d/archive_uri-http_dl_google_com_linux_chrome_deb_-jammy.list
+  421  cat /etc/apt/sources.list.d/google-chrome.list
+  422  sudo rm /etc/apt/sources.list.d/archive_uri-http_dl_google_com_linux_chrome_deb_-jammy.list
+  423  sudo apt update
+  424  sudo apt remove google-chrome-stable
+  425  sudo apt autoremove
+  426  sudo apt clean
+  427  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  428  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  429  sudo apt -f install
+  430  google-chrome
+  431  sudo apt update
+  432  pkill -9 chrome
+  433  rm ~/.config/google-chrome/SingletonLock
+  434  rm ~/.config/google-chrome/SingletonSocket
+  435  rm ~/.config/google-chrome/SingletonCookie
+  436  google-chrome
+  437  umask 
+  438  cat .bashrc
+  439  ls
+  440  cd cognac/
+  441  ls
+  442  vim log.txt
+  443  cat log.txt 
+  444  head -n 2 log.txt 
+  445  rm log.txt 
+  446  vim app.log
+  447  cat app.log 
+  448  clear
+  449  awk '{print}' app.log 
+  450  awk '{print *1}' app.log 
+  451  awk '{print $1}' app.log 
+  452  awk '{print $1 $2 }' app.log 
+  453  awk '{print}' app.log 
+  454  awk '{print $1 $2}' app.log 
+  455  awk '{print $1,$2,$3}' app.log 
+  456  awk '/INFO/ {print $1,$2,$3}' app.log 
+  457  awk '/INFO/ {print $1,$2,$3}' app.log > extracted.txt
+  458  cat extracted.txt 
+  459  rm extracted.txt extracted.log
+  460  rm  extracted.log extracted.txt
+  461  mv extracted.txt extracted.log
+  462  mv  extracted.log extracted.txt
+  463  ls
+  464  cd 
+  465  cd cognac/
+  466  grep extracted.txt
+  467  awk '{print}'
+  468  awk '{print}' app.log 
+  469  awk '/EVENT/ {print $1,$2,$3,$5}'
+  470  awk '/EVENT/ {print $1,$2,$3,$5}' app.log 
+  471  awk '/INFO/ {print $1,$2,$3,$5}' app.log 
+  472  awk '/INFO/ {print $1,$2,$3,$5}' app.log > tjs.log
+  473  ls
+  474  cat tjs.log 
+  475  clear
+  476  awk '/INFO/ {print $1,$2,$3,$5}' app.log 
+  477  awk '/INFO/ {print count}' app.log 
+  478  clear
+  479  awk '/INFO/ {count++} END {print count}' app.log 
+  480  awk '$2 >= "08:54" && $2 <= "08:57" {print $3}' app.log 
+  481  awk '$2 >= "08:54" && $2 <= "08:57" {print $5}' app.log 
+  482  clear
+  483  awk '{print}' app.log 
+  484  head -n {2..10} awk '{print}' app.log 
+  485  head -n {2..10} awk '{print $1 $2}' app.log 
+  486  awk '{print $1 $2}' app.log 
+  487  awk '{print}' app.log 
+  488  awk '{print $6}' app.log 
+  489  awk '{print $7}' app.log 
+  490  awk '{print}' app.log 
+  491  awk 'NR >=2 && NR <=10 {print}' app.log 
+  492  sudo userdel Damon 
+  493  sed '/TRACE/p' app.log 
+  494  sed -n '/TRACE/p' app.log 
+  495  sed -n 's/TRACE/track/g' app.log 
+  496  sed -n '/TRACE/p' app.log 
+  497  sed -n 's/TRACE/TRACK/g' app.log 
+  498  sed 's/T00RACK/g' app.log 
+  499  sed -n '/TRACk/p' app.log 
+  500  sed  '/TRACk/p' app.log 
+  501  sed  '/TRACE/p' app.log 
+  502  sed -n '/TRACE/p' app.log 
+  503  clear
+  504  sed -n '/TRACE/p' app.log 
+  505  sed 's/TRACE/LOG/g' app.log 
+  506  sed -n -e '/INFO/=' app.log 
+  507  sed -n -e '/INFO/=' -e '/INFO/p' app.log 
+  508  sed -n -e 'NR>=1 && NR<=10 /INFO/p' app.log 
+  509  sed '1,10 s/INFO/BASH/g' app.log 
+  510  sed -n '1,10 /LOG/p' app.log 
+  511  sed -n '1,10 s/LOG/p' app.log 
+  512  sed -n '1,10' END '/LOG/p' app.log 
+  513  sed -n '/LOG/p' app.log 
+  514  sed -n '1,10' END '/BASH/p' app.log 
+  515  sed -n '/BASH/p' app.log 
+  516  sed -n '/INFO/p' app.log 
+  517  sed -n '/BASH/p' app.log 
+  518  sed -n '/INFO/p' app.log 
+  519  sed 's/INFO/BASH/g' app.log 
+  520  sed '/BASH/p' app.log 
+  521  clear
+  522  sed '/BASH/p' app.log 
+  523  sed 's/INFO/BASH/g' app.log 
+  524  sed -n '/BASH/p' app.log 
+  525  grep info tjs.log 
+  526  grep info app.log 
+  527  clear
+  528  grep -c info app.log 
+  529  grep -c bash app.log 
+  530  grep -c BASH app.log 
+  531  grep -c INFO app.log 
+  532  grep -i -c INFO app.log 
+  533  ps aux | grep ubuntu
+  534  ps aux | grep ubuntu | awk '{print &2 $4}'
+  535  ps aux | grep ubuntu | awk '{print $2 $4}'
+  536  cd 
+  537  mkdir Day3_task
+  538  cd Day3_task/
+  539  vim fruit.txt
+  540  cat fruit.txt 
+  541  vim devops.txt
+  542  cat devops.txt 
+  543  cat -n 3 devops.txt 
+  544  cat -n3 devops.txt 
+  545  head -n3 devops.txt 
+  546  head -n3 asc devops.txt 
+  547  sort devops.txt 
+  548  head -n3 devops.txt | sort devops.txt 
+  549  sort devops.txt | head -n3 devops.txt 
+  550  sort devops.txt 
+  551  head -n3 devops.txt 
+  552  echo "Pineapple" > devops.txt 
+  553  cat devops.txt 
+  554  cim devops.txt 
+  555  vim devops.txt 
+  556  ls
+  557  vim devops.txt 
+  558  touch devops.txt 
+  559  cat devops.txt 
+  560  vim devops.txt 
+  561  cat devq
+  562  cat devops.txt 
+  563  echo "Pineapple" >> devops.txt 
+  564  cat devops.txt 
+  565  history -n10
+  566  history
+  567  head -n10
+  568  history | head -n10
+  569  cat fruit.txt 
+  570  cat NR fruit.txt |
+  571  cat NR=10 fruit.txt |
+  572  cat NR=10 fruit.txt 
+  573  cat fruit.txt 
+  574  cat fruit.txt | tail -n3 fruit.txt 
+  575  cat fruit.txt | tail -n 3 fruit.txt 
+  576  cat fruit.txt | tail -n 2 fruit.txt 
+  577  cat fruit.txt | tail -n 4 fruit.txt 
+  578  cat fruit.txt | tail -n 4 fruit.txt | sort fruit.txt 
+  579  cat fruit.txt | tail -n 4 fruit.txt | sort fruit.txt | tail -4 fruit.txt 
+  580  cat fruit.txt | tail -n 4 fruit.txt | sort fruit.txt | tail -3 fruit.txt 
+  581  cat fruit.txt | tail -n 4 fruit.txt | sort fruit.txt | tail -4 fruit.txt 
+  582  vim fruit.txt 
+  583  cat fruit.txt 
+  584  tail -n3 fruit.txt 
+  585  tail -n3 fruit.txt | sort fruit.txt 
+  586  cat fruit.txt 
+  587  car -n3 fruit.txt 
+  588  cat -n3 fruit.txt 
+  589  head -n3 fruit.txt 
+  590  head -n3 fruit.txt >> sort fruit.txt 
+  591  cat -n3 fruit.txt 
+  592  cat fruit.txt 
+  593  vim colors.txt
+  594  cat colors.txt 
+  595  echo "Yellow" > colors.txt 
+  596  cat colors.txt 
+  597  vim colors.txt
+  598  echo "Yellow" >> colors.txt 
+  599  cat colors.txt 
+  600  nohup tail -n3 colors.txt 
+  601  ls
+  602  cat nohup.out 
+  603  sort nohup.out 
+  604  cat nohup.out 
+  605  rm nohup.out 
+  606  ls
+  607  cat sort 
+  608  rm sort 
+  609  cat fruit.txt 
+  610  cat colors.txt 
+  611  comm colors.txt fruit.txt 
+  612  ls
+  613  clear
+  614  ls
+  615  cat fruit.txt 
+  616  cat colors.txt 
+  617  vi  fruit.txt 
+  618  cat fruit.txt 
+  619  comm fruit.txt colors.txt 
+  620  sort fruit.txt colors.txt 
+  621  man grep 
+  622  grep -Fxf fruit.txt colors.txt 
+  623  head -n3 fruit.txt | tac
+  624  tail -3 fruit.txt | sort
+  625  wc fruit.txt 
+  626  man wc
+  627  wc -l fruit.txt 
+  628  man wc
+  629  wc -lw fruit.txt 
+  630  git
+  631  git --version
+  632  cd devops/
+  633  mkdir git_day5
+  634  cd git_day5/
+  635  git init
+  636  ls -a
+  637  cd .git/
+  638  ls
+  639  touch git.txt github.txt
+  640  ls
+  641  rm git.txt github.txt
+  642  cd 
+  643  cd devops/
+  644  cd git_day5/
+  645  ls
+  646  ls -a
+  647  touch git.txt github.txt
+  648  ls
+  649  git status 
+  650  git add .
+  651  git commit  "feat: added"
+  652  git commit "feat: added"
+  653  git commit -m "feat: added"
+  654  git config --global user.email sorecognac@gmail.com
+  655  git config --global user.name tjsgmt
+  656  git commit -m "feat: added"
+  657  git log
+  658  git log --one line
+  659  git log --oneline
+  660  git checkout -b Dev
+  661  git log --oneline
+  662  git status 
+  663  vim tejs.txt
+  664  ls
+  665  git status 
+  666  git add .
+  667  git commit -m "feat: made from dev"
+  668  cd .
+  669  cd 
+  670  cd devops/
+  671  git clone https://github.com/LondheShubham153/90DaysOfDevOps.git
+  672  cd 9
+  673  cd 90DaysOfDevOps/
+  674  ls
+  675  git status 
+  676  git checkout -b Demob7
+  677  git branch 
+  678  git remote -v
+  679  cd devops | touch tjs.txt
+  680  cd devops/
+  681  ls
+  682  cat tjs/
+  683  cd devops | touch tejs.txt
+  684  cd 
+  685  cd devops | touch tejs.txt
+  686  cd devops/
+  687  ls
+  688  cat tejs.txt 
+  689  mkdir old_projects | touch file{1..5}.txt
+  690  cd old_projects/
+  691  ls
+  692  touch file{1..5}.txt
+  693  ls
+  694  cd grep
+  695  cd 
+  696  clear
+  697  man grep
+  698  pid
+  699  id
+  700  ids
+  701  df -h
+  702  PID
+  703  ps -p
+  704  pldof
+  705  id cognac
+  706  cat /etc/passwd
+  707  man user
+  708  man usermod
+  709  sudo visudo 
+  710  cat coganc /etx/passwd
+  711  cat cognac /etx/passwd
+  712  cat cognac /etc/passwd
+  713  man grep
+  714  ls
+  715  cd cognac/
+  716  ls
+  717  cat app.log 
+  718  grep  -n "INFO" app.log 
+  719  grep  -c "INFO" app.log 
+  720  grep  -i "INFO" app.log 
+  721  grep  -o "INFO" app.log 
+  722  grep  -v "INFO" app.log 
+  723  grep  -r "INFO" app.log 
+  724  grep  -r "INFO" /etc/passwd
+  725  grep  -r "INFO" tjs.log 
+  726  cat app.log 
+  727  grep  ":...." tjs.log 
+  728  grep  ":.." tjs.log 
+  729  grep  "ReadBuffer" tjs.log 
+  730  grep  -n "ReadBuffer" tjs.log 
+  731  grep  -n "constructing" tjs.log 
+  732  grep  -n "sending to" tjs.log 
+  733  grep  "sending to" tjs.log 
+  734  grep  "rsvp" tjs.log 
+  735  grep  "Trace" tjs.log 
+  736  grep  "TRACE" tjs.log 
+  737  grep  -i "TRACE" tjs.log 
+  738  grep  -r "INFO" tjs.log 
+  739  grep  -r "*API" tjs.log 
+  740  grep  -r "API" tjs.log 
+  741  grep "config" .etc
+  742  grep "config" /etc
+  743  grep -r "config" /etc
+  744  man grep 
+  745  grep -F "TODO" /src/.py
+  746  grep -F "TODO" .pry /src/
+  747  grep -F "TODO" /src/
+  748  grep -F -r "TODO" /src
+  749  grep -r "TODO" /src
+  750  grep -r "TODO" /etc/src
+  751  grep -r "config" /etc
+  752  man grep 
+  753  cat app.log 
+  754  cd cognac/
+  755  ls
+  756  cat app.log 
+  757  grep -i -n "EVENT & INFO" app.log 
+  758  grep  -n "EVENT & INFO" app.log 
+  759  grep  -n " INFO" app.log | grep -n "EVENT" app.log 
+  760  grep  -n " INFO" app.log && grep -n "EVENT" app.log 
+  761  man grep
+  762  ssh
+  763  ssh-keygen
+  764  cd ~/.ssh
+  765  ls
+  766  cat id_rsa
+  767  cat id_rsa.pub 
+  768  cd 
+  769  ssh -i Tjsgmt_dev cloud.inetbusinesshub.com
+  770  ssh
+  771  ssh-keygen 
+  772  cd .ssh
+  773  ls
+  774  cat known_hosts 
+  775  ls id_rsa.pub 
+  776  cat id_rsa.pub 
+  777  cd 
+  778  cleaer
+  779  clear
+  780  ssh -i Cognac_key cognac @103.209.146.236
+  781  cd .ssh
+  782  ls
+  783  cd 
+  784  ssh -i ~/.ssh/id_rsa.pub user@103.209.146.236
+  785  cd .ssh
+  786  ls
+  787  ls -lh
+  788  chmod 600 id_rsa.pub 
+  789  ls -lh
+  790  cat id_rsa.pub 
+  791  cd 
+  792  cat /etc/ssh/sshd_config
+  793  ssh -i ~/.ssh/id_rsa.pub user@103.209.146.236
+  794  ssh -i ~/.ssh/id_rsa.pub root@103.209.146.236
+  795  history
+  796  tail -n 20 history
+  797  tail -n20 history
+  798  tail -n20 
+  799  history tail -n20 
+  800  history
+  801  history tail -n20 
+  802  history
+  803  ssh -i ~/.ssh/id_rsa.pub root@103.209.146.236
+  804  scp -i ~/.ssh/id_rsa.pub nohup.out root@103.209.146.236:/root/Tejs 
+  805  scp -i ~/.ssh/id_rsa.pub nohup.out root@103.209.146.236:/root/Tejs/tejs.txt . 
+  806  ls
+  807  cat tejs.txt 
+  808  systemctl ssh
+  809  systemctl status ssh
+  810  cd Deo
+  811  ssh -i ~/.ssh/id_rsa.pub root@103.209.146.236
+  812  clear
+  813  ls
+  814  cd Desktop/
+  815  cd
+  816  cd cognac/
+  817  ls
+  818  cd 
+  819  mv cognac scripts
+  820  ls
+  821  cd scripts/
+  822  ls
+  823  vim norma.sh
+  824  bash norma.sh 
+  825  time
+  826  date
+  827  vi norma.sh 
+  828  bash norma.sh 
+  829  chmod 700 norma.sh 
+  830  ls -lh
+  831  ./norma.sh 
+  832  vi norma.sh 
+  833  ./norma.sh 
+  834  man grep
+  835  ./norma.sh 
+  836  vi norma.sh 
+  837  ./norma.sh 
+  838  awk {NR=2 print} 
+  839  awk {NR=2 {print  $2} 
+  840  awk {NR=2 {print  $2} }
+  841  awk {'NR=2 {print  $2}'}
+  842  awk 'NR=2 {print  $2}'
+  843  df -h | awk 'NR=2 {print  $2}'
+  844  sf -h
+  845  df -h
+  846  df -h | awk 'NR=2  {print $2}' | head -n2
+  847  df -h | awk 'NR=2  {print $2}' | head -n3
+  848  vi norma.sh 
+  849  free -l
+  850  free -l | awk {print $2}
+  851  free -l | awk '{print $2}'
+  852  free -l | awk '{print $1}' | head -n2
+  853  free -l | awk '{print $2}' | head -n2
+  854  free -l | awk '{print $2}' | head -n3
+  855  vi norma.sh 
+  856  ./norma.sh 
+  857  vi norma.sh 
+  858  ./norma.sh 
+  859  vi norma.sh 
+  860  ./norma.sh 
+  861  vi norma.sh 
+  862  ./norma.sh 
+  863  vi norma.sh 
+  864  ./norma.sh 
+  865  vi norma.sh 
+  866  ./norma.sh 
+  867  vi norma.sh 
+  868  ./norma.sh 
+  869  vi norma.sh 
+  870  ./norma.sh 
+  871  vi norma.sh 
+  872  ./norma.sh 
+  873  vi norma.sh 
+  874  ./norma.sh 
+  875  vi norma.sh 
+  876  ls -l
+  877  vi norma.sh 
+  878  rm norma.sh 
+  879  vi Scipt.sh
+  880  ls
+  881  vi Script.sh
+  882  cd scripts/
+  883  ./Script.sh
+  884  ls -l
+  885  chmod 700 Script.sh 
+  886  ./Script.sh
+  887  ./Script.sh klaus 10000
+  888  vi Script.sh 
+  889  ./Script.sh klaus 10000
+  890  cat /etc/passwd
+  891  whoami
+  892  su user
+  893  ls
+  894  cd scripts/
+  895  ls
+  896  vi Textadd.sh
+  897  chmod 700 Textadd.sh 
+  898  ./Textadd.sh 
+  899  vi Textadd.sh
+  900  ./Textadd.sh 
+  901  vi Textadd.sh
+  902  ./Textadd.sh 
+  903  vi Textadd.sh
+  904  ./Textadd.sh 
+  905  vi Textadd.sh
+  906  ./Textadd.sh 
+  907  vi Textadd.sh
+  908  ./Textadd.sh 
+  909  vi Textadd.sh
+  910  ./Textadd.sh 
+  911  vi Textadd.sh
+  912  ./Textadd.sh 
+  913  vi Textadd.sh
+  914  ./Textadd.sh 
+  915  vi Textadd.sh
+  916  ./Textadd.sh 
+  917  vi Textadd.sh
+  918  ./Textadd.sh 
+  919  useradd tejas
+  920  sudo useradd tejas
+  921  cat /etc/passwd
+  922  userdel tejas 
+  923  su userdel tejas 
+  924  sudo userdel tejas 
+  925  cat /etc/passwd
+  926  ls
+  927  vim usr_mani.sh
+  928  chmod 700 usr_mani.sh 
+  929  ./usr_mani.sh 
+  930  vim usr_mani.sh
+  931  ./usr_mani.sh 
+  932  vim usr_mani.sh
+  933  ./usr_mani.sh 
+  934  wq
+  935  vim usr_mani.sh
+  936  ./usr_mani.sh 
+  937  vim usr_mani.sh
+  938  ./usr_mani.sh 
+  939  vim usr_mani.sh
+  940  ./usr_mani.sh 
+  941  cat /etc/passwd
+  942  vim usr_mani.sh
+  943  sudo userdel tejas 
+  944  sudo userdel bella
+  945  ./usr_mani.sh 
+  946  cat /etc/passwd
+  947  vim usr_mani.sh
+  948  date
+  949  date '+%Y_%m_%d/%H:%M:%S'
+  950  ipconfig
+  951  ifconfig
+  952  mkdir backups
+  953  ls
+  954  cd scripts/
+  955  vi backup.sh
+  956  cd 
+  957  cd backups/
+  958  pwd
+  959  cd 
+  960  cd scripts/
+  961  ls
+  962  chmod 700 backup.sh 
+  963  ./backup.sh /home/cognac/backups
+  964  sudo apt install zip
+  965  ./backup.sh /home/cognac/backups
+  966  vi backup.sh
+  967  sudo apt get install zip
+  968  cd 
+  969  sudo apt-get install zip
+  970  cd scripts/
+  971  ./backup.sh /home/cognac/backups
+  972  vi backup.sh 
+  973  ./backup.sh /home/cognac/backups
+  974  vi backup.sh 
+  975  ./backup.sh /home/cognac/backups
+  976  cd 
+  977  ls
+  978  pwd
+  979  vi backup.sh 
+  980  cd scripts/
+  981  ls
+  982  vi backup.sh 
+  983  cd 
+  984  ls
+  985  cd backups/
+  986  pwd
+  987  ls
+  988  cd 
+  989  cd scripts/
+  990  ls
+  991  vi backup.sh 
+  992  cd 
+  993  cd backups/
+  994  ls
+  995  unzip backup_2024-07-25-13-53-26.zip 
+  996  ls
+  997  cd home/cognac
+  998  ls
+  999  cd scripts/
+ 1000  ls
+ 1001  cd
+ 1002  cd backups/
+ 1003  ;s
+ 1004  ls
+ 1005  rmdir -r home
+ 1006  rmdir  home
+ 1007  rm -r home
+ 1008  ls
+ 1009  rm typescript 
+ 1010  ls
+ 1011  ls -t
+ 1012  cd 
+ 1013  crontab -e
+ 1014  cd backups/
+ 1015  ls
+ 1016  rm -r
+ 1017  rm backup_2024-07-25-1*
+ 1018  ls
+ 1019  cd
+ 1020  cd backups/
+ 1021  ls
+ 1022  rm backup_2024-07-25-14-57-28.zip 
+ 1023  ls
+ 1024  cd 
+ 1025  ls
+ 1026  cd backups/
+ 1027  ls
+ 1028  cd 
+ 1029  service crontab status
+ 1030  systemctl crontab
+ 1031  systemctl cron
+ 1032  service cron status
+ 1033  service cron start 
+ 1034  service cron status
+ 1035  cd backups/
+ 1036  LS
+ 1037  ls
+ 1038  service cron status
+ 1039  ls
+ 1040  cd 
+ 1041  cd scripts/
+ 1042  ls
+ 1043  ls -lh
+ 1044  crontab -e
+ 1045  cd
+ 1046  cd backups/
+ 1047  ls
+ 1048  date '+%Y-%M-%D_%H-%M-%S'
+ 1049  date '+%Y-%M-%D-%H-%M-%S'
+ 1050  date '+%Y-%m-%d-%H-%M-%S'
+ 1051  vi backup.sh 
+ 1052  ./backup.sh /home/cognac/backups
+ 1053  vi backup.sh 
+ 1054  cd 
+ 1055  backups/
+ 1056  ls
+ 1057  cd backups/
+ 1058  ls
+ 1059  cd
+ 1060  cd scripts/
+ 1061  ls
+ 1062  vi backup.sh 
+ 1063  ./backup.sh /home/cognac/backups
+ 1064  vi backup.sh 
+ 1065  cd 
+ 1066  cd backups/
+ 1067  ls
+ 1068  cd
+ 1069  cd scripts/
+ 1070  ls
+ 1071  cd 
+ 1072  backups/
+ 1073  ls
+ 1074  cd backups/
+ 1075  ls
+ 1076  unzip backup_2024-07-25-12-56-22.zip 
+ 1077  ls
+ 1078  cd home/
+ 1079  ls
+ 1080  cd cognac/
+ 1081  ls
+ 1082  backups/
+ 1083  cd backups/
+ 1084  ls
+ 1085  cd
+ 1086  cd backups/
+ 1087  script
+ 1088  cd 
+ 1089  cd scripts/
+ 1090  ls
+ 1091  vi backup.sh 
+ 1092  ls
+ 1093  pwd
+ 1094  ./backup.sh /home/cognac/scripts /home/cognac/backups
+ 1095  vi backup.sh 
+ 1096  ./backup.sh /home/cognac/scripts /home/cognac/backups
+ 1097  sudo apt purge zip
+ 1098  sudo apt-get install zip
+ 1099  ./backup.sh /home/cognac/scripts /home/cognac/backups
+ 1100  vi backup.sh 
+ 1101  ./backup.sh /home/cognac/scripts /home/cognac/backups
+ 1102  vi backup.sh 
+ 1103  ./backup.sh /home/cognac/scripts /home/cognac/backups
+ 1104  ls
+ 1105  vi backup.sh 
+ 1106  ./backup.sh /home/cognac/scripts /home/cognac/backups
+ 1107  cd 
+ 1108  crontab -e
+ 1109  cd backups/
+ 1110  ls
+ 1111  cd 
+ 1112  ls
+ 1113  cat backup.log 
+ 1114  cd scripts/
+ 1115  ls
+ 1116  pwd
+ 1117  ls
+ 1118  crontab -e
+ 1119  ls 
+ 1120  cd 
+ 1121  cd backups/
+ 1122  ls
+ 1123  cd 
+ 1124  ls
+ 1125  cat backup.log 
+ 1126  cron stop
+ 1127  crontab -e
+ 1128  cd scripts/
+ 1129  ls
+ 1130  vi backup.sh 
+ 1131  ./backup.sh /home/cognac/scripts /home/cognac/backups
+ 1132  crontab -e
+ 1133  cd scripts/
+ 1134  ls
+ 1135  vi backup.sh 
+ 1136  cd 
+ 1137  ls
+ 1138  ls -lh
+ 1139  chmod 700 backups
+ 1140  ls -lh
+ 1141  chmod 700 scripts/
+ 1142  ls -lh
+ 1143  crontab -e
+ 1144  ls
+ 1145  cat backup
+ 1146  cat backup.log 
+ 1147  crontab -e
+ 1148  vi backup.log 
+ 1149  rm backup.log 
+ 1150  ls
+ 1151  cd devops/
+ 1152  ls
+ 1153  cd 
+ 1154  cd devops/
+ 1155  cd 
+ 1156  mkdir git_tutotial
+ 1157  mv git_tutotial git_tutotial/
+ 1158  rm git_tutorial git_tutotial/
+ 1159  rm -r git_tutorial git_tutotial/
+ 1160  ls
+ 1161  mkdir git_tutorial
+ 1162  ls
+ 1163  mkdir devops-project
+ 1164  cd git_tutorial/
+ 1165  ls
+ 1166  mv devops-project/ git_tutorial/
+ 1167  cd git_tutorial/
+ 1168  LS
+ 1169  ls
+ 1170  mkdir devops-practice
+ 1171  ls
+ 1172  cd devops-project/
+ 1173  git init
+ 1174  cd .git/
+ 1175  ls
+ 1176  cd .
+ 1177  cd ..
+ 1178  touch klaus.txt elijah.txt
+ 1179  ls
+ 1180  ls -l 
+ 1181  git status 
+ 1182  git add .
+ 1183  git status 
+ 1184  git commit -m "feat: added files"
+ 1185  git log
+ 1186  git config --glonal user.name "tjsgmt"
+ 1187  git config --global user.name "tjsgmt"
+ 1188  git config --global user.email "sorecognac@gmail.com"
+ 1189  history 
+ 1190  history > commands.txt

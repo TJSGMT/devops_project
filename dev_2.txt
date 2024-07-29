@@ -1,9 +1,2 @@
-"were gonna make some thing in this file"
-
-
-
-
-
-
-
-"THIS IS ridiculous"
+"were gonna make some thing in this file
+"
